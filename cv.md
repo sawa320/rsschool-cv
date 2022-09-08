@@ -10,8 +10,8 @@
 ### don't know what to write here
 ## Work experience:
 ### Without skills and experience.
-##Education:
-###Primorsky Polytechnic College, Accounting
-##Languages:
-###Russian (native)
-###English (A1)
+## Education:
+### Primorsky Polytechnic College, Accounting
+## Languages:
+### Russian (native)
+### English (A1)
